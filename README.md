@@ -71,5 +71,5 @@ sentiment-app/
 
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
-| Membre A | Prénom Nom | @larhlimi-ia | |
-| Membre B | Prénom Nom | @laroptical | |
+| Membre A | larhlimi1 | @larhlimi-ia | |
+| Membre B | larhlimi2 | @laroptical | |
